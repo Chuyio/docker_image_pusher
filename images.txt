@@ -1,4 +1,5 @@
 centos
+ubuntu:22.10
 docker.io/calico/cni:v3.22.5
 docker.io/calico/pod2daemon-flexvol:v3.22.5
 docker.io/calico/node:v3.22.5

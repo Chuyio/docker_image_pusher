@@ -1,3 +1,1 @@
-sameersbn/gitlab:16.7.7
-redis:6.2.14
-sameersbn/postgresql:14-20230628
+nicolaka/netshoot
